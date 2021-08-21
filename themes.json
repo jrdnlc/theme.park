@@ -109,7 +109,7 @@
       "addons": {}
     },
     "organizr": {
-      "base_css": "https://theme-park.dev/CSS/themes/organizr/organizr-base.css?sha=dd2234ea4e86c71eb6b177cfc47a969a89082843",
+      "base_css": "https://theme-park.dev/CSS/themes/organizr/organizr-base.css?sha=ed8a5ad068efe754d389413829a7ca0b9db53f1f",
       "addons": {
         "glass": {
           "css": [
@@ -128,7 +128,7 @@
       "addons": {
         "bazarr-4k-logo": {
           "css": [
-            "https://theme-park.dev/CSS/addons/bazarr/bazarr-4k-logo/bazarr-4k-logo.css?sha=ff9cca70767971025f11a4c16bf71043c7df2431"
+            "https://theme-park.dev/CSS/addons/bazarr/bazarr-4k-logo/bazarr-4k-logo.css?sha=46198c7fbad746b02d2dcb0b27d04467084af121"
           ]
         }
       }
@@ -323,7 +323,7 @@
     "bazarr": {
       "bazarr-4k-logo": {
         "css": [
-          "https://theme-park.dev/CSS/addons/bazarr/bazarr-4k-logo/bazarr-4k-logo.css?sha=ff9cca70767971025f11a4c16bf71043c7df2431"
+          "https://theme-park.dev/CSS/addons/bazarr/bazarr-4k-logo/bazarr-4k-logo.css?sha=46198c7fbad746b02d2dcb0b27d04467084af121"
         ]
       }
     },
